@@ -1,0 +1,14 @@
+E:\_OLD\$Customs - 12124\Everything\Engine\src\Core\Clock.cpp;E:\_OLD\$Customs - 12124\Everything\bin-int\Debug-windows-x86_64\Engine\Clock.obj
+E:\_OLD\$Customs - 12124\Everything\Engine\src\Core\Engine.cpp;E:\_OLD\$Customs - 12124\Everything\bin-int\Debug-windows-x86_64\Engine\Engine.obj
+E:\_OLD\$Customs - 12124\Everything\Engine\src\Core\Event.cpp;E:\_OLD\$Customs - 12124\Everything\bin-int\Debug-windows-x86_64\Engine\Event.obj
+E:\_OLD\$Customs - 12124\Everything\Engine\src\Core\Input.cpp;E:\_OLD\$Customs - 12124\Everything\bin-int\Debug-windows-x86_64\Engine\Input.obj
+E:\_OLD\$Customs - 12124\Everything\Engine\src\Core\Logging.cpp;E:\_OLD\$Customs - 12124\Everything\bin-int\Debug-windows-x86_64\Engine\Logging.obj
+E:\_OLD\$Customs - 12124\Everything\Engine\src\Core\Memory.cpp;E:\_OLD\$Customs - 12124\Everything\bin-int\Debug-windows-x86_64\Engine\Memory.obj
+E:\_OLD\$Customs - 12124\Everything\Engine\src\Core\String.cpp;E:\_OLD\$Customs - 12124\Everything\bin-int\Debug-windows-x86_64\Engine\String.obj
+E:\_OLD\$Customs - 12124\Everything\Engine\src\Math\Math.cpp;E:\_OLD\$Customs - 12124\Everything\bin-int\Debug-windows-x86_64\Engine\Math.obj
+E:\_OLD\$Customs - 12124\Everything\Engine\src\PCH_Engine.cpp;E:\_OLD\$Customs - 12124\Everything\bin-int\Debug-windows-x86_64\Engine\PCH_Engine.obj
+E:\_OLD\$Customs - 12124\Everything\Engine\src\Platform\Platform_Win32.cpp;E:\_OLD\$Customs - 12124\Everything\bin-int\Debug-windows-x86_64\Engine\Platform_Win32.obj
+E:\_OLD\$Customs - 12124\Everything\Engine\src\Renderer\Renderer_Interface.cpp;E:\_OLD\$Customs - 12124\Everything\bin-int\Debug-windows-x86_64\Engine\Renderer_Interface.obj
+E:\_OLD\$Customs - 12124\Everything\Engine\src\Resources\Filesystem.cpp;E:\_OLD\$Customs - 12124\Everything\bin-int\Debug-windows-x86_64\Engine\Filesystem.obj
+E:\_OLD\$Customs - 12124\Everything\Engine\src\Resources\Shader.cpp;E:\_OLD\$Customs - 12124\Everything\bin-int\Debug-windows-x86_64\Engine\Shader.obj
+E:\_OLD\$Customs - 12124\Everything\Engine\src\Systems\TextureSystem.cpp;E:\_OLD\$Customs - 12124\Everything\bin-int\Debug-windows-x86_64\Engine\TextureSystem.obj
